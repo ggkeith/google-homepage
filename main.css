@@ -51,12 +51,40 @@ table {
 /**************Custom Styling*****************/
 
 
-.navbar {
+.nav {
+	display: inline-block;
+	margin: auto;
+	width: 60%;
+}
+
+.nav-items {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 }
 
-.navbar li {
-	display: inline;
+.list {
+	display: inline-block;
+	padding: 3px 3px 3px 3px;
+	margin: auto;
+	float: right;
 }
+
+.nav-items a {
+	display: block;
+	margin: auto;
+	width: 60%;
+}
+
+#logo {
+	display: block;
+	margin: auto;
+	width: 35%
+}
+
+.search {
+	display: block;
+	margin: auto;
+	width: 50%;
+}
+
