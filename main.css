@@ -31,6 +31,9 @@ form input[type="text"] {
 	height: 25px;
 }
 
-.submit-btn {
-	text-align: center;
+form input[type="submit"] {
+	border-radius: 5%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
