@@ -20,3 +20,12 @@ img {
 	display: inline-block;
 	margin: auto;
 }
+
+.search-box {
+	text-align: center;
+}
+
+form input[type="text"] {
+	width: 380px;
+	height: 25px;
+}
