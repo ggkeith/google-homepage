@@ -10,7 +10,6 @@ html, body {
 
 
 .nav-items {
-	position: relative;
 	width: 100%;
 	top: 0px;
 	float: right;
@@ -29,3 +28,14 @@ form input[type="text"] {
 	width: 380px;
 	height: 25px;
 }
+
+.submit {
+	display: inline-block;
+	width: 80px;
+}
+
+.luck {
+	display: inline-block;
+	width: 80px;
+}
+
